@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sravya-19
-- 👀 I’m interested in Machine Learning, Cybersecurity and Python Developement
-- 🌱 I’m currently learning to work and develop on AWS.
+- 👀 I’m interested in Python development, DevOps and working in cloud infrastructures.
+- ☁️ I am certified AWS developer
+- ⚡ I have experience working with up and coming technologies like Terraform, Mulesoft and Ansible.
 
 <!---
 sravya-19/sravya-19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
