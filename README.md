@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sravya-19
+- 👋 Hi, I’m Sravya
 - 👀 I’m interested in Python development, DevOps and working in cloud infrastructures.
 - ☁️ I am certified AWS developer
 - ⚡ I have experience working with up and coming technologies like Terraform, Mulesoft and Ansible.
