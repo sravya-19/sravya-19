@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sravya
-- 👀 I’m interested in Python development, DevOps and working in cloud infrastructures.
-- ☁️ I am certified AWS developer
+- 👀 I’m interested in Python development, DevOps and working with cloud infrastructures.
+- ☁️ I am a certified AWS developer
 - ⚡ I have experience working with up and coming technologies like Terraform, Mulesoft and Ansible.
 
 <!---
